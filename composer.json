@@ -1,7 +1,7 @@
 {
     "name": "kaleoz/elasticSearchClient",
     "description": "Elasticsearch Client",
-    "keywords": ["search","client"],
+    "keywords": ["Elasticsearch","client","Elasticsearch"],
     "homepage": "http://elastica.io/",
     "type": "library",
     "license": "MIT",
