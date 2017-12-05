@@ -1,5 +1,5 @@
 {
-    "name": "kaleoz/elasticSearchClient",
+    "name": "kaleoz/elastic-search-client",
     "description": "Elasticsearch Client",
     "keywords": ["Elasticsearch","client","Elasticsearch"],
     "homepage": "http://elastica.io/",
