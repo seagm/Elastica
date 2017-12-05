@@ -1,16 +1,10 @@
 {
-    "name": "ruflin/elastica",
+    "name": "kaleoz/elasticSearchClient",
     "description": "Elasticsearch Client",
     "keywords": ["search","client"],
     "homepage": "http://elastica.io/",
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Nicolas Ruflin",
-            "homepage": "http://ruflin.com/"
-        }
-    ],
     "require": {
         "php": "^7.0",
         "psr/log": "~1.0",
